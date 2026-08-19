@@ -1,0 +1,4 @@
+# 色盲模拟与色盲安全配色（dsh-color-blindness）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: color-blindness
+      name: 'dsh-color-blindness'
